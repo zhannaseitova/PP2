@@ -1,0 +1,7 @@
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\obj\Debug\Lab1Task1.csprojAssemblyReference.cache
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\obj\Debug\Lab1Task1.csproj.CoreCompileInputs.cache
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\bin\Debug\Lab1Task1.exe.config
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\bin\Debug\Lab1Task1.exe
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\bin\Debug\Lab1Task1.pdb
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\obj\Debug\Lab1Task1.exe
+C:\Users\Дина\source\repos\Lab1Task1\Lab1Task1\obj\Debug\Lab1Task1.pdb
