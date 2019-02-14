@@ -1,0 +1,7 @@
+C:\Users\Дина\source\repos\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\Дина\source\repos\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\Дина\source\repos\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\Дина\source\repos\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\Дина\source\repos\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\Дина\source\repos\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\Дина\source\repos\FarManager\FarManager\obj\Debug\FarManager.pdb
